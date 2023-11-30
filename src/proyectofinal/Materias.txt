@@ -1,0 +1,82 @@
+1,Algebra,1120,8
+1,Calculo y Geometria Analitica,1121,12
+1,Quimica,1123,10
+1,Fundamentos de Fisica,1130,6
+1,Fundamentos de Programacion,1122,10
+1,Igualdad de Genero en Ingenieria,8000,0
+2,Algebra Lineal,1220,8
+2,Calculo Integral,1221,8
+2,Mecanica,1228,12
+2,Redaccion y Exposicion de Temas de Ingenieria,1124,6
+2,Estructuras de Datos y Algoritmos,1227,10
+3,Probabilidad,1436,8
+3,Calculo Vectorial,1321,8
+3,Ecuaciones Diferenciales,1325,8
+3,Cultura y Comunicacion,1222,2
+3,Estructura de Datos y Algoritmos II,1317,10
+3,Programacion Orientada a Objetos,1323,10
+4,Fundamentos de Estadistica,1445,8
+4,Electricidad y Magnetismo,1414,10
+4,Analisis Numerico,1433,8
+4,Matematicas Avanzadas,1424,8
+4,Estructuras Discretas,0119,8
+5,Estructura y Programacion de Computadoras,1503,8
+5,Dispositivos Electronicos,0138,10
+5,Lenguajes Formales y Automatas,0442,8
+5,Señales y Sistemas,1473,8
+5,Ingenieria de Software,1531,8
+6,Sistemas Operativos,0840,8
+6,Diseño Digital Moderno,1645,10
+6,Bases de Datos,1644,14
+6,Circuitos Electricos,1562,8
+6,Administracion de Proyectos de Software,1643,8
+7,Finanzas en la Ingenieria en Computacion,1537,6
+7,Diseño Digital VLSI,1535,8
+7,Inteligencia Artificial,0406,8
+7,Compiladores,0434,8
+7,Sistemas de Comunicaciones,1686,8
+7,Introducción a la Economia,1413,8
+8,Ciencia Tecnologia y Sociedad,1789,4
+8,Introduccion al Analisis Economico Empresarial,1790,4
+8,Literatura Hispanoamericana Contemporanea,1055,6
+8,Mexico Nacion Multicultural,1791,4
+8,Seminario Sociohumanistico Historia y Prospectiva de la Ingenieria,1792,2
+8,Seminario Sociohumanistico Ingenieria y Politicas Publicas,1793,2
+8,Seminario Sociohumanistico Ingenieria y Sustentabilidad,1794,2
+8,Taller Sociohumanistico Creatividad,1795,2
+8,Taller Sociohumanistico Liderazgo,1796,2
+8,Microcomputadoras,1672,8
+8,Computacion Grafica e Interaccion HumanoComputadora,1590,10
+8,Etica Profesional,1052,6
+8,Redes de Datos Seguras,1598,14
+9,Organizacion y Arquitectura de Computadoras,1867,8
+9,Fundamentos de Sistemas Embebidos,1858,8
+9,Sistemas Distribuidos,1956,8
+9,Dispositivos de Almacenamiento y Entrada Salida,1765,8
+9,Procesamiento Digital de Señales,2901,8
+9,Sistemas de Control,2914,10
+9,Sistemas Embebidos Avanzados,2927,8
+9,Administracion de Proyectos TIC,2928,8
+9,Bases de Datos Avanzadas,2929,8
+9,Criptografia,2930,8
+9,Negocios Electronicos y Desarrollo Web,2931,8
+9,Recursos y Necesidades de Mexico,2080,8
+10,Administracion de Centros de Tecnologia de Informacion,2944,8
+10,Administracion de Servicios de Internet,2945,8
+10,Arquitectura Cliente Servidor,2946,6
+10,Bases de Datos Distribiudas,2947,8
+10,Computacion Grafica Avanzada,2948,8
+10,Computo Movil,0674,6
+10,Fisica Cuantica,2949,8
+10,Procesamiento de Lenguaje Natural,2950,6
+10,Proceamiento Digital de Imagenes,1916,8
+10,Procesamiento Digital de Voz,1018,8
+10,Programacion Masiva en Arquitecura Unificado,2951,8
+10,Proyecto de Investigacion para Ingenieria en Computacion,2952,6
+10,Reconocimiento de Patrones,0757,6
+10,Robots Moviles,2953,6
+10,Seguridad Informatica Avanzada,2954,8
+10,Seminario de Titulacion para Ingenieros en Computacion,2955,6
+10,Temas Selectos de Ingenieria en Computacion I,2956,6
+10,Temas Selectos de Ingenieria en Computacion II,2957,6
+10,Temas Selectos de Ingenieria en Computacion III,2958,8
